@@ -17,7 +17,6 @@ The project assets include:
 ## Repository Contents
 - `Fake_News_Detection_RiaSingh.ipynb` — Main notebook containing the end-to-end pipeline.
 - `fake news detection.pdf` — Project report.
-- `Fake_News_Detection_Ria_Vandana_Sakshi.zip` — Supporting assets (dataset or related files).
 - `README.md` — Project documentation (this file).
 
 ## Workflow Summary
